@@ -12,7 +12,7 @@ A web app for managing all the activities of a library like managing members and
 - [Library Management System 📚](#library-management-system-)
   - [Video Demo](#video-demo)
 - [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
+- [Features 🚀](#features)
 - [Setup 🔥](#setup-)
   - [Frontend Setup 🍧](#frontend-setup-)
   - [Backend Setup 🍿](#backend-setup-)
